@@ -1,0 +1,9 @@
+{
+  "name": "PlaymodePreserver.Editor",
+  "references": [
+    "PlaymodePreserver.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "com.aliameenrana.playmodepreserver",
+  "displayName": "Playmode Preserver",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "A Unity Editor tool to preserve transform changes made during Play Mode.",
+  "keywords": ["playmode", "transform", "editor", "tool"],
+  "category": "Editor",
+  "author": {
+    "name": "Ali Ameen",
+    "email": "aliameenrana@gmail.com",
+    "url": "https://github.com/aliameenrana"
+  },
+  "hideInEditor": false
+}

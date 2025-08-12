@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - Track and compare pre- and post-Play Mode `Transform` data.
 - Visual editor window for reviewing changed GameObjects.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 How to Use
+## How to Use
 
 1. Select gameobjects you want to track transform of.
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Option 1: Manual
 
